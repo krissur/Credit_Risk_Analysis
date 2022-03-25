@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of the analysis: 
-The purpose of this analysis was to campare machine learning to evaluate data and deside which worked the best. 
+The purpose of this analysis was to compare machine learning to evaluate data and deside which worked the best. 
 * Oversampling with Ramdom Oversampler and SMOTE machine learning algorithms
 * Undersampling with the ClusterCentroids algorithm.
 * Over/Under Sampling Combinatorialusing the SMOTEENN algothrim.
