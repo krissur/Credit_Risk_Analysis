@@ -1,13 +1,16 @@
 # Credit_Risk_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
-Overview of the loan prediction risk analysis:
-The purpose of this analysis is well defined
+## Overview of the analysis: 
+The purpose of this analysis was to campare machine learning to evaluate data and deside which worked the best. 
+* Oversampling with Ramdom Oversampler and SMOTE machine learning algorithms
+* Undersampling with the ClusterCentroids algorithm.
+* Over/Under Sampling Combinatorialusing the SMOTEENN algothrim.
+* Compare 2 new machine learning models, Balanced Random Forest Classifier and Easy Ensemble Classifier
+
 
 
 ## Results:
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
+
 
 
 ## Summary: 
